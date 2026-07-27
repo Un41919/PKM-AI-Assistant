@@ -217,4 +217,5 @@ Official **2026 Program Kreativitas Mahasiswa (PKM) Guidelines** published by th
 ## Author
 
 Nailul Muna
+
 Developed as the final project for the **Trend and Topic Analysis** course.

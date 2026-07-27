@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.venv/
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Generated files
+vector_db/
+outputs/
+
+# Logs
+*.log
+
+# System
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Videos
+*.mp4
+*.mov
+*.avi
+*.mkv

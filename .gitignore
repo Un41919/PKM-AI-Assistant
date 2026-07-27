@@ -12,9 +12,6 @@ venv/
 .vscode/
 .idea/
 
-# Generated files
-outputs/
-
 # Logs
 *.log
 

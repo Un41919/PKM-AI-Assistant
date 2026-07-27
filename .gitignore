@@ -13,7 +13,6 @@ venv/
 .idea/
 
 # Generated files
-vector_db/
 outputs/
 
 # Logs
